@@ -18,4 +18,4 @@ DMF_MC.m - The algorithm written for "Matrix completion by deep matrix factoriza
 
 DMF_NetflixPrize.m - This script utilizes "DMF_MC.m" to perform matrix completion on the incomplete matrices produced by "Create_Data_Subset.py"
 
-Several other supporting Octave files are included such as tan_opt.m and sigm.m which are necessary for the DMF_MC.m code.
+Several other supporting Octave files are included such as tan_opt.m, sigm.m, rproptools, +Utils, etc. which are necessary for the DMF_MC.m code
